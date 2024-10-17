@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLFlow/model-registry-mlflow-demo/mlruns/309391168614291834/609c8a9028eb4345b0e4e21bc893676c/artifacts
+end_time: 1729152924616
+entry_point_name: ''
+experiment_id: '309391168614291834'
+lifecycle_stage: active
+run_id: 609c8a9028eb4345b0e4e21bc893676c
+run_name: classy-midge-831
+run_uuid: 609c8a9028eb4345b0e4e21bc893676c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729152924568
+status: 3
+tags: []
+user_id: Asus

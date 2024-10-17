@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLFlow/model-registry-mlflow-demo/mlruns/309391168614291834/b1b2935f2f16457490cb3288ecbd8f41/artifacts
+end_time: 1729151209929
+entry_point_name: ''
+experiment_id: '309391168614291834'
+lifecycle_stage: active
+run_id: b1b2935f2f16457490cb3288ecbd8f41
+run_name: adaptable-quail-231
+run_uuid: b1b2935f2f16457490cb3288ecbd8f41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729151209896
+status: 3
+tags: []
+user_id: Asus

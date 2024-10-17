@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLFlow/model-registry-mlflow-demo/mlruns/309391168614291834/144d4e055bc84f96baaa7c7c843a0948/artifacts
+end_time: 1729153522429
+entry_point_name: ''
+experiment_id: '309391168614291834'
+lifecycle_stage: active
+run_id: 144d4e055bc84f96baaa7c7c843a0948
+run_name: charming-roo-104
+run_uuid: 144d4e055bc84f96baaa7c7c843a0948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729153522384
+status: 3
+tags: []
+user_id: Asus

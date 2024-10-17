@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLFlow/model-registry-mlflow-demo/mlruns/309391168614291834/ca4ac2b639fa4749876becaefbe1872d/artifacts
+end_time: 1729151148547
+entry_point_name: ''
+experiment_id: '309391168614291834'
+lifecycle_stage: active
+run_id: ca4ac2b639fa4749876becaefbe1872d
+run_name: thoughtful-stork-394
+run_uuid: ca4ac2b639fa4749876becaefbe1872d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729151148487
+status: 3
+tags: []
+user_id: Asus

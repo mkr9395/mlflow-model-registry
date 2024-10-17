@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLFlow/model-registry-mlflow-demo/mlruns/309391168614291834/bf57cbbd0fcd4a68826e6e44965699cf/artifacts
+end_time: 1729151148430
+entry_point_name: ''
+experiment_id: '309391168614291834'
+lifecycle_stage: active
+run_id: bf57cbbd0fcd4a68826e6e44965699cf
+run_name: burly-gnu-685
+run_uuid: bf57cbbd0fcd4a68826e6e44965699cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729151148385
+status: 3
+tags: []
+user_id: Asus

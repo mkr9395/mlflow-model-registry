@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLFlow/model-registry-mlflow-demo/mlruns/309391168614291834/a2d153c6f4b140bfa1c90dd25cf2f8de/artifacts
+end_time: 1729153521748
+entry_point_name: ''
+experiment_id: '309391168614291834'
+lifecycle_stage: active
+run_id: a2d153c6f4b140bfa1c90dd25cf2f8de
+run_name: intrigued-foal-42
+run_uuid: a2d153c6f4b140bfa1c90dd25cf2f8de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729153521710
+status: 3
+tags: []
+user_id: Asus

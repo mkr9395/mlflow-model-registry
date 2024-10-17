@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLFlow/model-registry-mlflow-demo/mlruns/309391168614291834/fb524456f9604645b289a7f425d468f7/artifacts
+end_time: 1729151251311
+entry_point_name: ''
+experiment_id: '309391168614291834'
+lifecycle_stage: active
+run_id: fb524456f9604645b289a7f425d468f7
+run_name: bustling-stoat-836
+run_uuid: fb524456f9604645b289a7f425d468f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729151251276
+status: 3
+tags: []
+user_id: Asus

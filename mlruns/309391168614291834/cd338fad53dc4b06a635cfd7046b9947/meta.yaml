@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLFlow/model-registry-mlflow-demo/mlruns/309391168614291834/cd338fad53dc4b06a635cfd7046b9947/artifacts
+end_time: 1729151251097
+entry_point_name: ''
+experiment_id: '309391168614291834'
+lifecycle_stage: active
+run_id: cd338fad53dc4b06a635cfd7046b9947
+run_name: salty-conch-594
+run_uuid: cd338fad53dc4b06a635cfd7046b9947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729151251059
+status: 3
+tags: []
+user_id: Asus

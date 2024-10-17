@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLFlow/model-registry-mlflow-demo/mlruns/309391168614291834/a7ee812b9b054178a8f230b3bbec0033/artifacts
+end_time: 1729151251519
+entry_point_name: ''
+experiment_id: '309391168614291834'
+lifecycle_stage: active
+run_id: a7ee812b9b054178a8f230b3bbec0033
+run_name: crawling-hound-102
+run_uuid: a7ee812b9b054178a8f230b3bbec0033
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729151251474
+status: 3
+tags: []
+user_id: Asus

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLFlow/model-registry-mlflow-demo/mlruns/309391168614291834/e9ae0829c036445982e671f9d0f4780a/artifacts
+end_time: 1729151148327
+entry_point_name: ''
+experiment_id: '309391168614291834'
+lifecycle_stage: active
+run_id: e9ae0829c036445982e671f9d0f4780a
+run_name: gentle-perch-435
+run_uuid: e9ae0829c036445982e671f9d0f4780a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729151148281
+status: 3
+tags: []
+user_id: Asus

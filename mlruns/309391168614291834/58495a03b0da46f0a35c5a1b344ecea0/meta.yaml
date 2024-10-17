@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLFlow/model-registry-mlflow-demo/mlruns/309391168614291834/58495a03b0da46f0a35c5a1b344ecea0/artifacts
+end_time: 1729151251273
+entry_point_name: ''
+experiment_id: '309391168614291834'
+lifecycle_stage: active
+run_id: 58495a03b0da46f0a35c5a1b344ecea0
+run_name: amazing-zebra-338
+run_uuid: 58495a03b0da46f0a35c5a1b344ecea0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729151251230
+status: 3
+tags: []
+user_id: Asus

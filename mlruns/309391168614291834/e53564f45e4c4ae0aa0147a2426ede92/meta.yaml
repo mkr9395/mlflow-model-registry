@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLFlow/model-registry-mlflow-demo/mlruns/309391168614291834/e53564f45e4c4ae0aa0147a2426ede92/artifacts
+end_time: 1729152925248
+entry_point_name: ''
+experiment_id: '309391168614291834'
+lifecycle_stage: active
+run_id: e53564f45e4c4ae0aa0147a2426ede92
+run_name: bouncy-yak-112
+run_uuid: e53564f45e4c4ae0aa0147a2426ede92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729152925196
+status: 3
+tags: []
+user_id: Asus

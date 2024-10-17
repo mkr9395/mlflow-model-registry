@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLFlow/model-registry-mlflow-demo/mlruns/309391168614291834/7db2c80f89ce48979a0ba14face62ec4/artifacts
+end_time: 1729151251227
+entry_point_name: ''
+experiment_id: '309391168614291834'
+lifecycle_stage: active
+run_id: 7db2c80f89ce48979a0ba14face62ec4
+run_name: likeable-skunk-163
+run_uuid: 7db2c80f89ce48979a0ba14face62ec4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729151251194
+status: 3
+tags: []
+user_id: Asus

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLFlow/model-registry-mlflow-demo/mlruns/309391168614291834/2fbc3fe172be41acacb9726d86ccfb9a/artifacts
+end_time: 1729153522028
+entry_point_name: ''
+experiment_id: '309391168614291834'
+lifecycle_stage: active
+run_id: 2fbc3fe172be41acacb9726d86ccfb9a
+run_name: painted-fish-606
+run_uuid: 2fbc3fe172be41acacb9726d86ccfb9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729153521981
+status: 3
+tags: []
+user_id: Asus

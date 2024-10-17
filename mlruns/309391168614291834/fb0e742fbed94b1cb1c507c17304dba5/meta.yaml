@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLFlow/model-registry-mlflow-demo/mlruns/309391168614291834/fb0e742fbed94b1cb1c507c17304dba5/artifacts
+end_time: 1729152924852
+entry_point_name: ''
+experiment_id: '309391168614291834'
+lifecycle_stage: active
+run_id: fb0e742fbed94b1cb1c507c17304dba5
+run_name: carefree-kite-689
+run_uuid: fb0e742fbed94b1cb1c507c17304dba5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729152924797
+status: 3
+tags: []
+user_id: Asus

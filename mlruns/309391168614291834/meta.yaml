@@ -1,0 +1,6 @@
+artifact_location: file:///D:/MLOps_CampusX/MLFlow/model-registry-mlflow-demo/mlruns/309391168614291834
+creation_time: 1729151143501
+experiment_id: '309391168614291834'
+last_update_time: 1729151143501
+lifecycle_stage: active
+name: diabetes-rf-hp

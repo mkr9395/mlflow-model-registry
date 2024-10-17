@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLFlow/model-registry-mlflow-demo/mlruns/309391168614291834/7cf346ac503c4459905dab9caf195366/artifacts
+end_time: 1729152924458
+entry_point_name: ''
+experiment_id: '309391168614291834'
+lifecycle_stage: active
+run_id: 7cf346ac503c4459905dab9caf195366
+run_name: sedate-perch-220
+run_uuid: 7cf346ac503c4459905dab9caf195366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729152924416
+status: 3
+tags: []
+user_id: Asus

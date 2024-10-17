@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLFlow/model-registry-mlflow-demo/mlruns/309391168614291834/f21d379b1a3d442fbc95590960b1da14/artifacts
+end_time: 1729151330492
+entry_point_name: ''
+experiment_id: '309391168614291834'
+lifecycle_stage: active
+run_id: f21d379b1a3d442fbc95590960b1da14
+run_name: resilient-crow-123
+run_uuid: f21d379b1a3d442fbc95590960b1da14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729151330446
+status: 3
+tags: []
+user_id: Asus

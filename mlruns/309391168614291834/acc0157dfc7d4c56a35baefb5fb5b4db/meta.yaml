@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLFlow/model-registry-mlflow-demo/mlruns/309391168614291834/acc0157dfc7d4c56a35baefb5fb5b4db/artifacts
+end_time: 1729153522077
+entry_point_name: ''
+experiment_id: '309391168614291834'
+lifecycle_stage: active
+run_id: acc0157dfc7d4c56a35baefb5fb5b4db
+run_name: receptive-lamb-641
+run_uuid: acc0157dfc7d4c56a35baefb5fb5b4db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729153522031
+status: 3
+tags: []
+user_id: Asus

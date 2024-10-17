@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLFlow/model-registry-mlflow-demo/mlruns/309391168614291834/2a0646523e614d468e9f2e2071f67ffd/artifacts
+end_time: 1729152925369
+entry_point_name: ''
+experiment_id: '309391168614291834'
+lifecycle_stage: active
+run_id: 2a0646523e614d468e9f2e2071f67ffd
+run_name: secretive-cow-518
+run_uuid: 2a0646523e614d468e9f2e2071f67ffd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729152925316
+status: 3
+tags: []
+user_id: Asus

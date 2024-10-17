@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLFlow/model-registry-mlflow-demo/mlruns/309391168614291834/c01ea409e56a43e49997085155a55890/artifacts
+end_time: 1729152924964
+entry_point_name: ''
+experiment_id: '309391168614291834'
+lifecycle_stage: active
+run_id: c01ea409e56a43e49997085155a55890
+run_name: rare-bat-2
+run_uuid: c01ea409e56a43e49997085155a55890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729152924912
+status: 3
+tags: []
+user_id: Asus

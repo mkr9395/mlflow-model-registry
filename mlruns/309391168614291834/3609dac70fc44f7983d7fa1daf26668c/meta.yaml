@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLFlow/model-registry-mlflow-demo/mlruns/309391168614291834/3609dac70fc44f7983d7fa1daf26668c/artifacts
+end_time: 1729153521828
+entry_point_name: ''
+experiment_id: '309391168614291834'
+lifecycle_stage: active
+run_id: 3609dac70fc44f7983d7fa1daf26668c
+run_name: crawling-ray-437
+run_uuid: 3609dac70fc44f7983d7fa1daf26668c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729153521784
+status: 3
+tags: []
+user_id: Asus
